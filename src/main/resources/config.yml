@@ -1,0 +1,19 @@
+Objetivos:
+  'KILL_MOBS':
+    Raridades:
+      'Epica':
+        Quantidade: 500
+        Comandos:
+          - 'say %jogador% completou a missao'
+          - 'say vtnc'
+        Recompensas:
+          - '&cx1 &dPintao'
+          - '&cx1 &dTapa na Cara'
+      'Lendaria':
+        Quantidade: 1000
+        Comandos:
+          - 'say %jogador% completou a missao 2'
+          - 'say vtnc 2'
+        Recompensas:
+          - '&cx2 &dPintao'
+          - '&cx2 &dTapa na Cara'

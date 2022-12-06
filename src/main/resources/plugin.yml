@@ -1,0 +1,7 @@
+name: SkyblockQuests
+main: com.rocketmc.quests.Main
+author: RocketMC
+version: 1.0
+load: POSTWORLD
+commands:
+  givemission:
